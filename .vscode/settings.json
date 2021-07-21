@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "RETR",
+        "amax",
+        "asarray",
+        "dtype",
+        "hsplit",
+        "hstack",
+        "imread",
+        "imshow",
+        "keras",
+        "mnist",
+        "numpy",
+        "vsplit",
+        "vstack"
+    ]
+}
